@@ -1,0 +1,16 @@
+# C++ Miscellaneous
+* [Assertion](./assertion/1_assertion.pdf)
+	- Run-time assertion and compile-time assertion.
+* [Bit Manipulation](./bit_manipulation/bit_manipulation.pdf)
+* [enum](./enum/enum.pdf)
+* [Error and exception handling](./error_and_exception_handling/error_and_exception_handling.pdf)
+* [extern keyword](./extern_keyword/extern_keyword.pdf)
+* [mutex](./mutex/mutex.pdf)
+* [namespace and using keyword](./namespace_and_using_keyword/namespace_using.pdf)
+* [&& in C++](./&&inC++.png)
+* [null in C++](./null.png)
+* [Function pointer](./function_pointer.pdf)
+* [EXIT_SUCCESS and EXIT_FAILURE](./exit_success_and_exit_failure.jpg)
+* [Style Guide scope end](./style_guide_scope_end.jpg)
+* [Avoide verbose data type](./avoide_verbose_data_type.jpg)
+* [frined in c++](./frined_in_c++.jpg)

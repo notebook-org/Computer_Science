@@ -1,0 +1,1 @@
+Structure in c++ is same as the class in c++ exceept that, in structure everything is private by default.
