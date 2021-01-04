@@ -3,7 +3,8 @@
 	- Run-time assertion and compile-time assertion.
 * [Bit Manipulation](./bit_manipulation/bit_manipulation.pdf)
 * [enum](./enum/enum.pdf)
-* [Error and exception handling](./error_and_exception_handling/error_and_exception_handling.pdf)
+* [Error and Exception Handling](./error_and_exception_handling/error_and_exception_handling.pdf)
+	* [Exception Handling CPPCON](./error_and_exception_handling/ExceptionHandling_CPPCON/ExceptionHandling_CPPCON.pdf)
 * [extern keyword](./extern_keyword/extern_keyword.pdf)
 * [mutex](./mutex/mutex.pdf)
 * [namespace and using keyword](./namespace_and_using_keyword/namespace_using.pdf)
@@ -14,3 +15,7 @@
 * [Style Guide scope end](./style_guide_scope_end.jpg)
 * [Avoide verbose data type](./avoide_verbose_data_type.jpg)
 * [frined in c++](./frined_in_c++.jpg)
+* [constexpr](./constexpr.jpg)
+* [explicit](./explicit.jpg)
+* [delete and default](./delete_and_default.jpg)
+* [noexcept](./noexcept.jpg)
