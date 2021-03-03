@@ -1,2 +1,0 @@
-\contentsline {chapter}{\numberline {1}Linux Basics}{2}{chapter.1}
-\contentsline {chapter}{\numberline {2}Intro to Linux Environment}{17}{chapter.2}
