@@ -13,3 +13,4 @@
 * [numpy.transpose](https://numpy.org/doc/stable/reference/generated/numpy.transpose.html)
 * [numpy.array_split](https://numpy.org/doc/stable/reference/generated/numpy.array_split.html)
 * [numpy.vstack](https://numpy.org/doc/stable/reference/generated/numpy.vstack.html#:~:text=vstack-,numpy.,to%20(1%2CN).)
+* [numpy.random.randn](https://numpy.org/doc/stable/reference/random/generated/numpy.random.randn.html)
