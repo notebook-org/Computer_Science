@@ -1,0 +1,6 @@
+Order:
+- Activity
+- Layout
+- App Architecture
+- Kotlin
+Ordered: true

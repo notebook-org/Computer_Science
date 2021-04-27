@@ -1,0 +1,8 @@
+Order:
+- Package and Import
+- Program Entry Point
+- Print to standard output
+- Functons
+- Variables
+- Classes
+Ordered: true

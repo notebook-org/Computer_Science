@@ -1,5 +1,5 @@
 # Android
-* [Activity](./Activity/index.md)
-* [Layout](./Layout/index.md)
-* [Android app architecture](./Android%20app%20architecture/index.md)
-* [Kotlin](./Kotlin/index.md)
+1. [Activity](./Activity/index.md)
+2. [Layout](./Layout/index.md)
+3. [App Architecture](./App%20Architecture/index.md)
+4. [Kotlin](./Kotlin/index.md)

@@ -1,2 +1,2 @@
 # Kotlin
-1. [Learning materials overview](./Learning%20materials%20overview/index.md)
+1. [Basic Syntax](./Basic%20Syntax/index.md)

@@ -16,3 +16,4 @@
 * [numpy.random.randn](https://numpy.org/doc/stable/reference/random/generated/numpy.random.randn.html)
 * [numpy.zeros_like](https://numpy.org/doc/stable/reference/generated/numpy.zeros_like.html#:~:text=zeros_like,-numpy.&text=Return%20an%20array%20of%20zeros,type%20as%20a%20given%20array.&text=The%20shape%20and%20data%2Dtype,attributes%20of%20the%20returned%20array.)
 * [numpy.random.choice](https://numpy.org/doc/stable/reference/random/generated/numpy.random.choice.html)
+* [np.random.normal](https://numpy.org/doc/stable/reference/random/generated/numpy.random.normal.html)
