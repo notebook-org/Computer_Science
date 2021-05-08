@@ -1,6 +1,5 @@
 Order:
-- Activity
-- Layout
-- App Architecture
+- Android Framework
 - Kotlin
+- Third Party
 Ordered: true

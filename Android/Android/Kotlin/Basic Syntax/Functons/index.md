@@ -1,4 +1,5 @@
 # Functons
+1. [High-order functions and lambdas](./High-order%20functions%20and%20lambdas/index.md)
 
 ## HandWritten Notes
 <p align="center">

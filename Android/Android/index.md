@@ -1,5 +1,4 @@
 # Android
-1. [Activity](./Activity/index.md)
-2. [Layout](./Layout/index.md)
-3. [App Architecture](./App%20Architecture/index.md)
-4. [Kotlin](./Kotlin/index.md)
+1. [Android Framework](./Android%20Framework/index.md)
+2. [Kotlin](./Kotlin/index.md)
+3. [Third Party](./Third%20Party/index.md)

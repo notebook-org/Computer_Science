@@ -5,4 +5,12 @@ Order:
 - Functons
 - Variables
 - Classes
+- Comments
+- String Template
+- If Else
+- For loop
+- While loop
+- When expression
+- Range
+- Nullable Value
 Ordered: true

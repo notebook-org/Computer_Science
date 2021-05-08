@@ -1,5 +1,8 @@
 # Inheritance
 
+## References
+* [Inheritance docs](https://kotlinlang.org/docs/inheritance.html)
+
 ## HandWritten Notes
 <p align="center">
 <img src="./1.jpg" alt="Page 1" width="800"/>
