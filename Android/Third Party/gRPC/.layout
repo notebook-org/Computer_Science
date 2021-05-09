@@ -1,0 +1,6 @@
+Order:
+- Introduction to gRPC
+- Core concepts, Architecture and lifecycle
+- 'gRPC: C++'
+- 'Language Guide: proto3'
+Ordered: true

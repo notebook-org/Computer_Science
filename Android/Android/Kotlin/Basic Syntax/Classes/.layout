@@ -1,8 +1,0 @@
-Order:
-- Constructor
-- Inheritance
-- Abstract Class
-- Object expressions and declarations
-- Interfaces
-- Functional SAM Interface
-Ordered: true
