@@ -4,5 +4,7 @@ Order:
 - Intent and Intent Filters
 - Layout
 - Building your app
-- Camera2
+- Sensors
+- Camera
+- Images and graphics
 Ordered: true
