@@ -1,0 +1,10 @@
+Order:
+- '*args and **kwargs'
+- String
+- dict()
+- lambda
+- --name--
+- Passing dictionary as function argument
+- sys.argv
+- Argparse
+Ordered: true

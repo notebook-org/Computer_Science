@@ -1,0 +1,7 @@
+Order:
+- Introduction
+- Git Basics
+- Git Branching
+- Distributed Git
+- Git Submodules
+Ordered: true

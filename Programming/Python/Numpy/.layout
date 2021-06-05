@@ -1,0 +1,9 @@
+Order:
+- Change dtype of numpy array
+- dot
+- expand_dims
+- linalg.norm
+- load text and save text
+- squeeze
+- tensordot
+Ordered: true

@@ -1,0 +1,8 @@
+Order:
+- Python Core
+- Numpy
+- Matplotlib
+- Jupyter Notebook
+- Panda
+- Unit Testing
+Ordered: true

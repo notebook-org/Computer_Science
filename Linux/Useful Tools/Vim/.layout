@@ -1,0 +1,6 @@
+Order:
+- Vim Navigation
+- Vim Editing
+- Vim Copy & Paste and Undu & Redu
+- Handling multiple files in vim
+Ordered: true
