@@ -7,4 +7,5 @@ Order:
 - Sensors
 - Camera
 - Images and graphics
+- Save key-value data
 Ordered: true

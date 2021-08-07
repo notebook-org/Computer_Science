@@ -5,4 +5,6 @@ Order:
 - Jupyter Notebook
 - Panda
 - Unit Testing
+- Packaging Python Projects
+- Logging
 Ordered: true

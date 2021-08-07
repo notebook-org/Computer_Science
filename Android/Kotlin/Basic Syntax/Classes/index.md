@@ -9,7 +9,7 @@
 ## References
 * [Classes docs](https://kotlinlang.org/docs/classes.html)
 
-## HandWritten Notes
+# HandWritten Notes
 <p align="center">
-<img src="./1.jpg" alt="Page 1" width="800"/>
+<img src="./1.jpg" alt="Page 1"/>
 <p\>

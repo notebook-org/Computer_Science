@@ -6,7 +6,7 @@
 ## References
 * [Functional SAM Interface](https://kotlinlang.org/docs/fun-interfaces.html)
 
-## HandWritten Notes
+# HandWritten Notes
 <p align="center">
-<img src="./1.jpg" alt="Page 1" width="800"/>
+<img src="./1.jpg" alt="Page 1"/>
 <p\>

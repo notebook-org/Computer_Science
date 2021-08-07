@@ -5,3 +5,5 @@
 4. [Jupyter Notebook](./Jupyter%20Notebook/index.md)
 5. [Panda](./Panda/index.md)
 6. [Unit Testing](./Unit%20Testing/index.md)
+7. [Packaging Python Projects](./Packaging%20Python%20Projects/index.md)
+8. [Logging](./Logging/index.md)
