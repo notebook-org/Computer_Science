@@ -8,3 +8,5 @@
 7. [Camera](./Camera/index.md)
 8. [Images and graphics](./Images%20and%20graphics/index.md)
 9. [Save key-value data](./Save%20key-value%20data/index.md)
+10. [USB](./USB/index.md)
+11. [Bluetooth](./Bluetooth/index.md)
