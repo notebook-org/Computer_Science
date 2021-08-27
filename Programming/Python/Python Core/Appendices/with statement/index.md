@@ -1,4 +1,9 @@
 # with statement
+
+## References
+* [with statement](https://www.geeksforgeeks.org/with-statement-in-python/)
+
+## Markdown Notes
 * with statement in Python is used in exception handling to make the code cleaner and much more readable.
 
 ```python
@@ -16,6 +21,3 @@ with open('file_path', 'w') as file:
 
 * There is no need to call file.close() when using with statement.
     * The with statement itself ensures proper acquisition and release of resources.
-
-## Reference
-* [with statement](https://www.geeksforgeeks.org/with-statement-in-python/)

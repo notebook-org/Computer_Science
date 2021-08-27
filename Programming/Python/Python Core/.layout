@@ -7,4 +7,5 @@ Order:
 - Passing dictionary as function argument
 - sys.argv
 - Argparse
+- range
 Ordered: true

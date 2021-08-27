@@ -6,11 +6,11 @@
 5. [load text and save text](./load%20text%20and%20save%20text/index.md)
 6. [squeeze](./squeeze/index.md)
 7. [tensordot](./tensordot/index.md)
+8. [sum](./sum/index.md)
 
 ## References
 * [numpy.argsort](https://numpy.org/doc/stable/reference/generated/numpy.argsort.html)
 * [numpy.argmax](https://numpy.org/doc/stable/reference/generated/numpy.argmax.html)
-* [numpy.sum](https://numpy.org/doc/stable/reference/generated/numpy.sum.html)
 * [numpy.matmul](https://numpy.org/doc/stable/reference/generated/numpy.matmul.html)
 * [numpy.transpose](https://numpy.org/doc/stable/reference/generated/numpy.transpose.html)
 * [numpy.array_split](https://numpy.org/doc/stable/reference/generated/numpy.array_split.html)

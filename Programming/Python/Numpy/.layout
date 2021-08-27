@@ -6,4 +6,5 @@ Order:
 - load text and save text
 - squeeze
 - tensordot
+- sum
 Ordered: true
