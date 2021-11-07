@@ -7,4 +7,5 @@ Order:
 - Unit Testing
 - Packaging Python Projects
 - Logging
+- PyQt5
 Ordered: true

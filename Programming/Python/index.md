@@ -7,3 +7,4 @@
 6. [Unit Testing](./Unit%20Testing/index.md)
 7. [Packaging Python Projects](./Packaging%20Python%20Projects/index.md)
 8. [Logging](./Logging/index.md)
+9. [PyQt5](./PyQt5/index.md)

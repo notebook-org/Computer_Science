@@ -1,5 +1,3 @@
-# Shortcuts
-
 ## In Command Mode
 |        Taks        |  Command |
 |:------------------:|:--------:|
@@ -31,8 +29,3 @@
 |:-----------:|:--------:|
 | Delete Line |  ctrl d  |
 
-
-# HandWritten Notes
-<p align="center">
-<img src="./1.jpg" alt="Page 1"/>
-<p\>
