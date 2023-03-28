@@ -1,0 +1,12 @@
+## Modern C++ (Summer 2018, Uni Bonn)
+
+1. [linux_and_c++](./1/README.md)
+2. [Variables, base types and control structures](./2/README.md)
+3. [Compiler, Google Styles and Cmake](./3/README.md)
+4. [getst and Classes](./4/README.md)
+5. [lvalue and rvalue, different constructers and inheritance](./5/README.md)
+6. [Polymorphish and reading writing to files](./6/README.md)
+7. [static keyword and pointers](./7/README.md)
+8. [Pointers and heap allocation, smart pointers](./8/README.md)
+9. [Smart pointers, map, casting and binary files](./9/README.md)
+10. [Generic Programming](./10/README.md)

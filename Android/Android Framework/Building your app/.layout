@@ -1,6 +1,0 @@
-Order:
-- Gradle
-- Configure your build
-- Build your app from the command line
-- Add Build Dependencies
-Ordered: true
